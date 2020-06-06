@@ -1,0 +1,99 @@
+img
+{
+  position: relative;
+  left: 245px;
+  padding-top: 30px;
+    
+}
+.a1tag
+{
+    position: relative;
+    left: 800px;
+    bottom: 40px;
+    word-spacing: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.a2tag
+{
+    position: relative;
+    left: 850px;
+    bottom: 40px;
+    word-spacing: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.a3tag
+{
+    position: relative;
+    left:900px;
+    bottom: 40px;
+    word-spacing: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.font
+        {
+            font-family: 'Charm', cursive;
+
+           font-family: 'Markazi Text', serif;
+
+          font-family: 'Srisakdi', cursive;
+            color: #63b7af;
+            text-align: center;
+            padding: 10px;
+            font-size:80px;
+            text-transform: capitalize;
+        }
+
+    .subtitle2
+          {
+               
+            color: #63b7af;
+            position:relative;
+            margin-left:530px;
+            bottom:20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 30px;
+          }
+
+    .description4
+          {
+            color:black;
+            position:relative;
+            margin-left:450px;
+            bottom:20px;
+            font-family: 'Merriweather Sans', sans-serif;
+            font-size: 18px;   
+          } 
+      .hrf1
+      {
+        
+        
+            position: relative;
+            left:790px;
+            bottom:58px;
+            font-family: Arial, Helvetica, sans-serif;
+            
+      }
+      .imgtitle1
+          {
+               
+            color:white;
+            position:relative;
+            margin-left:530px;
+            bottom:20px;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+            font-size: 35px;
+          }
+       .imgdes
+       {
+        color:white;
+        position:relative;
+        margin-left:590px;
+        bottom:100px;
+        font-family: 'Merriweather Sans', sans-serif;
+        font-size: 18px;
+
+       }   
+        
